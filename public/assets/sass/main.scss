@@ -806,6 +806,7 @@ table {
   width: 100%;
   tbody {
     tr {
+      font-size:0.6em;
       border: solid 1px _palette(border);
       border-left: 0;
       border-right: 0;
@@ -815,13 +816,13 @@ table {
     }
   }
   td {
-    padding: 0.75em 0.75em;
+    padding: 0.75em 0.2em;
   }
   th {
     color: _palette(fg-bold);
-    font-size: 0.9em;
+    font-size: 1em;
     font-weight: _font(weight-bold);
-    padding: 0 0.75em 0.75em 0.75em;
+    padding: 0 0.3em 0.3em 0.30em;
     text-align: left;
   }
   thead {

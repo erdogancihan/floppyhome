@@ -2117,6 +2117,7 @@ table {
 }
 
 table tbody tr {
+  font-size: 0.6em;
   border: solid 1px #fff;
   border-left: 0;
   border-right: 0;
@@ -2127,14 +2128,14 @@ table tbody tr:nth-child(2n + 1) {
 }
 
 table td {
-  padding: 0.75em 0.75em;
+  padding: 0.75em 0.2em;
 }
 
 table th {
   color: #fff;
-  font-size: 0.9em;
+  font-size: 1em;
   font-weight: 600;
-  padding: 0 0.75em 0.75em 0.75em;
+  padding: 0 0.3em 0.3em 0.30em;
   text-align: left;
 }
 
